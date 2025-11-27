@@ -10,7 +10,8 @@ int main() {
 
     std::cout << "x = 1" << '\n';
     std::cout << "y = 2" << '\n';
-    std::cout << "x + y = " << sum;
+    std::cout << "x + y = " << sum << '\n';
+    std::cout << "x * y = " << product;
 
     return 0;
 }
