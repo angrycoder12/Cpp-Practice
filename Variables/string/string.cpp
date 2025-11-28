@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ctime>
 
 int main(){
     // string: object that represents a sequence of text
