@@ -12,6 +12,6 @@ int main(){
    std::cout << "data type changed explicitly: " << y << '\n';
    // number converted to char data type in a cout:
    std::cout << "number 100 converted to char in this statement: " << (char) 100;
-   std::cout << 100;
+
    return 0;
 }
